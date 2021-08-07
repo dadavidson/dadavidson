@@ -1,4 +1,4 @@
-BSc Cybersecurity Student at <a href="https://www.wgu.edu/" target="_blank"> Western Governors University. </a>Passionate about Philosophy🤔, Infosec🥷🏻, and the whole sphere of Computing💻.
+BSc Cybersecurity Student at <a href="https://www.wgu.edu/" target="_blank"> Western Governors University. </a>Passionate about Philosophy🤔 Infosec🥷🏻 and Computing💻
   
 <p align="center">
   <a href="https://danieldavidson.github.io" target="_blank">Personal Website</a> •
