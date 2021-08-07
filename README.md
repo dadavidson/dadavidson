@@ -1,6 +1,6 @@
 <div align="center">
-  <h4>Ethical Hacker | Sysadmin | Pythonista</h4>
-  <h4>BSc Cybersecurity Student at <a href="https://www.wgu.edu/" target="_blank">Western Governors University</a></h4>
+  <h5>Ethical Hacker 🥷🏻 | Sysadmin 💻 | Pythonista 🐍</h5>
+  <h5>BSc Cybersecurity Student at <a href="https://www.wgu.edu/" target="_blank">Western Governors University</a></h5>
 </div>
   
 <p align="center">
