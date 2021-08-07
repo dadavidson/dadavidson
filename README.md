@@ -1,7 +1,7 @@
-<div align="center">
+<p align="center">
   <h4>Ethical Hacker | Sysadmin | Pythonista</h4>
   <h4>BSc Cybersecurity Student at <a href="https://www.wgu.edu/" target="_blank">Western Governors University</a></h4>
-</div>
+</p>
   
 <p align="center">
   <a href="https://danieldavidson.github.io" target="_blank">Personal Website</a> •
