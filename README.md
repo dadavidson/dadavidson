@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 Ethical Hacker | Sysadmin | Pythonista | BSc Cybersecurity Student at [Western Governors University](https://www.wgu.edu/).
 <p align="center">
   <a href="https://danieldavidson.github.io" target="_blank">Personal Website</a> •
