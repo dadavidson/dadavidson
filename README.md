@@ -8,4 +8,4 @@
   <a href="https://www.goodreads.com/daniel_reads" target="_blank">Goodreads</a>
 </p>
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=danieldavidson&show_icons=true&theme=dark" width="380">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=danieldavidson&show_icons=true&theme=dark">
