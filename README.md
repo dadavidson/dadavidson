@@ -8,4 +8,6 @@
   <a href="https://www.goodreads.com/daniel_reads" target="_blank">Goodreads</a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldavidson)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldavidson&show_icons=true&theme=blue-green)
+<p>
