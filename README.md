@@ -7,3 +7,5 @@
   <a href="https://tryhackme.com/p/Pyr0" target="_blank">TryHackMe</a> •
   <a href="https://www.goodreads.com/daniel_reads" target="_blank">Goodreads</a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldavidson)](https://github.com/anuraghazra/github-readme-stats)
