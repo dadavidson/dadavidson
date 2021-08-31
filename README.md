@@ -8,6 +8,6 @@
   <a href="https://www.goodreads.com/daniel_reads" target="_blank">Goodreads</a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danieldavidson&show_icons=true&theme=city_lights">
-<p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=danieldavidson&show_icons=true&theme=city_lights"><p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=danieldavidson&label=Profile%20views&color=0e75b6&style=flat" alt="danieldavidson" /> </p>
