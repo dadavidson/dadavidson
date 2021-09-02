@@ -1,4 +1,4 @@
-<p align="center">Ethical Hacker and Sysadmin. Passionate about Philosophy🤔 Infosec🔐 and Computing💻</p>
+<p align="center">Ethical Hacker and Sysadmin. Passionate about Philosophy📜 Infosec🔐 and Computing💻</p>
   
 <p align="center">
   <a href="https://danieldavidson.github.io" target="_blank">Personal Website</a> •
