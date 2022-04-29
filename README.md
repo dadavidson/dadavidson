@@ -1,4 +1,4 @@
-<p align="center">Ethical Hacker, Sysadmin, and Cybersecurity Student at WGU. Passionate about Philosophy📜 Infosec🔐 and Computing💻</p>
+<em align="center">Ethical Hacker, Network Engineer, and Cybersecurity Student at WGU. Passionate about Philosophy📜 Cybersec🔐 and Networking💻</em>
   
 <p align="center">
   <a href="https://dadavidson.github.io" target="_blank">Blog</a> •
