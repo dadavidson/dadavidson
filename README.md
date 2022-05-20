@@ -1,6 +1,6 @@
 <div align="center"><h2> Hi, I'm Daniel! 👋</h2></div>
 
-<div align="center"><em>Ethical Hacker, Network Engineer, and Cybersecurity Student at WGU.</em></div>
+<div align="center"><em>Network Engineer, Hacker, Pythonista, and Cybersecurity Student at WGU.</em></div>
 
 <div align="center"><em>Passionate about Philosophy📜 Cybersec🔐 and Networking<img src="https://media1.giphy.com/media/H4gzveHvxv2t4wrK91/giphy.gif" width="20"></em></div>
   
