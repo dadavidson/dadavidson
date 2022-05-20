@@ -1,3 +1,5 @@
+<div align="center"><h2> Hi, I'm Daniel! 👋</h2></div>
+
 <div align="center"><em>Ethical Hacker, Network Engineer, and Cybersecurity Student at WGU.</em></div>
 
 <div align="center"><em>Passionate about Philosophy📜 Cybersec🔐 and Networking<img src="https://media1.giphy.com/media/H4gzveHvxv2t4wrK91/giphy.gif" width="20"></em></div>
@@ -13,3 +15,5 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dadavidson&show_icons=true&theme=city_lights"><p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dadavidson&label=Profile%20views&color=0e75b6&style=flat" alt="dadavidson" /> </p>
+
+
