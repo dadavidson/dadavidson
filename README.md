@@ -18,7 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dadavidson&show_icons=true&theme=city_lights">
 </p>
 
-<p align="center">">
+<p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=dadavidson&theme=city-lights&border=58A6FF">
 </p>
   
