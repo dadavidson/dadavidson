@@ -16,8 +16,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dadavidson&show_icons=true&theme=city_lights">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=dadavidson&theme=city-lights&date_format=M%20j%5B%2C%20Y%5D&border=58A6FF" alt"git.io/streak-stats">
 </p>
 
+<p align="center">">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=dadavidson&theme=city-lights&border=58A6FF">
+</p>
+  
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dadavidson&theme=city-lights&border=58A6FF)](https://git.io/streak-stats) -->
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=dadavidson&label=Profile%20views&color=0e75b6&style=flat" alt="dadavidson" /> </p> -->
 
