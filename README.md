@@ -1,17 +1,24 @@
 # Hi, I'm Daniel! 👋
 
-*Network Engineer, Hacker, Pythonista, and Cybersecurity Student at WGU.*
-<p align="left"><em>Passionate about Philosophy📜 Cybersec🔐 and Networking<img src="https://media1.giphy.com/media/H4gzveHvxv2t4wrK91/giphy.gif" width="20"></em></p>
-
-<div align="left">
+<p align="left">
   <a href="https://dadavidson.github.io" target="_blank">Blog</a> •
   <a href="https://www.linkedin.com/in/danieldav/" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/dadavidson" target="_blank">Github</a> •
-  <a href="https://tryhackme.com/p/Pyr0" target="_blank">TryHackMe</a> •
-  <a href="https://www.goodreads.com/daniel_reads" target="_blank">Goodreads</a>
-</div>
+  <a href="https://github.com/dadavidson" target="_blank">Github</a>
+</p>
+
+*Network Engineer, Hacker, Pythonista, and Cybersecurity Student at WGU.*
+
+- 👨‍💻 I’m currently a Network Engineer with large logistics company
+- 🌱 I’m currently learning more about Cisco switching/routing, HTML/CSS, and Python
+- 🤔 I'm looking to help with any Open-source projects
+- 🚀 I’m pursuing a Bachelor's degree in Cybersecurity
+- 💬 Ask me about anything, I am happy to help
+- ⚡ My interests are Cybersecurity🔐, Automation⚙️, and Networking<img src="https://media1.giphy.com/media/H4gzveHvxv2t4wrK91/giphy.gif" width="20">
+- 📫 The best way to reach me is to DM here on LinkedIn.
 
 ---
+
+***How about some stats?***
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dadavidson&show_icons=true&theme=city_lights)
 
