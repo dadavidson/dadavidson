@@ -1,4 +1,4 @@
-## Hi, I'm Daniel! 👋
+# Hi, I'm Daniel! 👋
 
 *Network Engineer, Hacker, Pythonista, and Cybersecurity Student at WGU.*
 <p align="left"><em>Passionate about Philosophy📜 Cybersec🔐 and Networking<img src="https://media1.giphy.com/media/H4gzveHvxv2t4wrK91/giphy.gif" width="20"></em></p>
