@@ -6,7 +6,7 @@
   <a href="https://github.com/dadavidson" target="_blank">Github</a>
 </p>
 
-*Network Engineer, Hacker, Pythonista, and Cybersecurity Student at WGU.*
+<!-- *Network Engineer, Hacker, Pythonista, and Cybersecurity Student at WGU.* -->
 
 - 👨‍💻 I’m currently a Network Engineer with large logistics company
 - 🌱 I’m currently learning more about Cisco switching/routing, HTML/CSS, and Python
