@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning more about Cisco switching/routing, HTML/CSS, and Python
 - 🤔 I'm looking to help with any Open-source projects
 - 🚀 I’m pursuing a Bachelor's degree in Cybersecurity
-- 💬 Ask me about anything, I am happy to help
 - ⚡ My interests are Cybersecurity🔐, Automation⚙️, and Networking<img src="https://media1.giphy.com/media/H4gzveHvxv2t4wrK91/giphy.gif" width="20">
 - 📫 The best way to reach me is to DM here on LinkedIn.
 
