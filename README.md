@@ -17,4 +17,4 @@
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dadavidson&show_icons=true&theme=city_lights)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dadavidson&theme=city-lights&border=58a6ff)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dadavidson&theme=city-lights&border=58a6f)](https://git.io/streak-stats)
