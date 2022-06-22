@@ -9,7 +9,7 @@
 <!-- *Network Engineer, Hacker, Pythonista, and Cybersecurity Student at WGU.* -->
 
 - 👨‍💻 I’m currently a Network Engineer with large logistics company
-- 🌱 I’m currently learning more about Cisco switching/routing, HTML/CSS, and Python
+- 🌱 I’m currently learning more about Cisco switching/routing, Web Security, and Python
 - 🤔 I'm looking to help with any Open-source projects
 - 🚀 I’m pursuing a Bachelor's degree in Cybersecurity
 - ⚡ My interests are Cybersecurity🔐, Automation⚙️, and Networking<img src="https://media1.giphy.com/media/H4gzveHvxv2t4wrK91/giphy.gif" width="20">
