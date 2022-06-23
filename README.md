@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning more about Cisco switching/routing, Web Security, and Python
 - 🤔 I'm looking to help with any Open-source projects
 - 🚀 I’m pursuing a Bachelor's degree in Cybersecurity
-- ⚡ My interests are Cybersecurity🔐, Automation⚙️, and Networking<img src="https://media1.giphy.com/media/H4gzveHvxv2t4wrK91/giphy.gif" width="20">
+- ⚡ My interests are Cybersecurity🔐, Automation⚙️, and Networking<img src="https://media1.giphy.com/media/H4gzveHvxv2t4wrK91/giphy.gif" width="15">
 - 📫 The best way to reach me is to DM here on LinkedIn.
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dadavidson&show_icons=true&theme=city_lights)
