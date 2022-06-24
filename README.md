@@ -14,8 +14,6 @@
   <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadavidson&layout=compact&langs_count=7&theme=city_lights"/>
   <img width="660em" src="http://github-readme-streak-stats.herokuapp.com?user=dadavidson&theme=city-lights&border=FFFFFF"/></a>
 </div>
-  
-##
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
