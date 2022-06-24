@@ -19,7 +19,7 @@
 
 <br>
 
-- 👨‍💻 I’m currently a Network Engineer with large logistics company
+- 👨‍💻 I’m currently a Network Engineer at a large logistics company
 - 🌱 I’m currently learning more about Cisco switching/routing, Web Security, and Python
 - 🤔 I'm looking to help with any Open-source projects
 - 🚀 I’m pursuing a Bachelor's degree in Cybersecurity
