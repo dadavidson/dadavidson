@@ -16,10 +16,10 @@
 </div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
+
 - 👨‍💻 I’m currently a Network Engineer with large logistics company
 - 🌱 I’m currently learning more about Cisco switching/routing, Web Security, and Python
 - 🤔 I'm looking to help with any Open-source projects
 - 🚀 I’m pursuing a Bachelor's degree in Cybersecurity
-- ⚡ My interests are Cybersecurity🔐, Automation⚙️, and Networking<img src="https://media1.giphy.com/media/H4gzveHvxv2t4wrK91/giphy.gif" width="15">
+- ⚡ My interests are Cybersecurity🔐, Automation⚙️, and Networking📡
 - 📫 The best way to reach me is to DM here on LinkedIn.
