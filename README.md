@@ -15,6 +15,13 @@
 - ⚡ My interests are Cybersecurity🔐, Automation⚙️, and Networking<img src="https://media1.giphy.com/media/H4gzveHvxv2t4wrK91/giphy.gif" width="15">
 - 📫 The best way to reach me is to DM here on LinkedIn.
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dadavidson&show_icons=true&theme=city_lights)
+<div align="left">
+  <a href="https://github.com/dadavidson">
+  <img height="131em" src="https://github-readme-stats.vercel.app/api?username=dadavidson&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+  <img height="131em" src="http://github-readme-streak-stats.herokuapp.com?user=dadavidson&theme=city-lights&border=FFFFFF"/>
+  <img height="131em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadavidson&layout=compact&langs_count=7&theme=city_lights"/>  
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dadavidson&theme=city-lights&border=58a6f)](https://git.io/streak-stats)
+##
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
