@@ -17,6 +17,8 @@
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
+<br>
+
 - 👨‍💻 I’m currently a Network Engineer with large logistics company
 - 🌱 I’m currently learning more about Cisco switching/routing, Web Security, and Python
 - 🤔 I'm looking to help with any Open-source projects
