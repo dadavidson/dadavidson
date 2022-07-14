@@ -16,13 +16,14 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
 
 <br>
-
-- 👨‍💻 I’m currently a Network Engineer at a large logistics company
-- 🌱 I’m learning more about Cisco switching/routing, Web Security, and Python
-- 🤔 I'm looking to help with any Open-source projects
-- 🚀 I’m pursuing a Bachelor's degree in Cybersecurity
-- ⚡ My interests are Cybersecurity🔐, Automation⚙️, and Networking📡
-- 📫 The best way to reach me is to DM here on LinkedIn.
+<div align="center">
+<div>👨‍💻 I’m currently a Network Engineer at a large logistics company</div>
+<div>🌱 I’m learning more about Cisco switching/routing, Web Security, and Python</div>
+<div> 🤔 I'm looking to help with any Open-source projects</div>
+<div> 🚀 I’m pursuing a Bachelor's degree in Cybersecurity</div>
+<div> ⚡ My interests are Cybersecurity🔐, Automation⚙️, and Networking📡</div> 
+<div> 📫 The best way to reach me is to DM here on LinkedIn</div>
+</div>
