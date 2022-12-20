@@ -8,13 +8,13 @@
 
 <!-- *Network Engineer, Hacker, Pythonista, and Cybersecurity Student at WGU.* -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/dadavidson">
   <img height="141em" src="https://github-readme-stats.vercel.app/api?username=dadavidson&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
   <img height="141em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadavidson&layout=compact&langs_count=6&theme=city_lights"/>
-  <!-- <img width="660em" src="http://github-readme-streak-stats.herokuapp.com?user=dadavidson&theme=city-lights&border=FFFFFF"/> -->
+  <img width="660em" src="http://github-readme-streak-stats.herokuapp.com?user=dadavidson&theme=city-lights&border=FFFFFF"/>
   </a>
-</div>
+</div> -->
 
 <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
 
