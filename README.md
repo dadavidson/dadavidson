@@ -20,7 +20,7 @@
 
 <br>
 <div align="center">
-<div>👨‍💻 I’m currently a Network Engineer at a large logistics company</div>
+<div>👨‍💻 I’m currently a Network Security Engineer at a large logistics company</div>
 <div>🌱 I’m learning more about Cisco switching/routing, Web Security, and Python</div>
 <div> 🤔 I'm looking to help with any Open-source projects</div>
 <div> 🚀 I’m pursuing a Bachelor's degree in Cybersecurity</div>
