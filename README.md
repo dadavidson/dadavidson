@@ -25,5 +25,5 @@
 <div> 🤔 I'm looking to help with any Open-source projects</div>
 <div> 🚀 I’m pursuing a Bachelor's degree in Cybersecurity</div>
 <div> ⚡ My interests are Cybersecurity🔐, Automation⚙️, and Networking📡</div> 
-<div> 📫 The best way to reach me is to DM here on LinkedIn</div>
+<div> 📫 The best way to reach me is to DM me on LinkedIn</div>
 </div>
