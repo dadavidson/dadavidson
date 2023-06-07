@@ -6,8 +6,6 @@
   <a href="https://github.com/dadavidson" target="_blank">Github</a>
 </p>
 
-<!-- *Network Engineer, Hacker, Pythonista, and Cybersecurity Student at WGU.* -->
-
 <!-- <div align="center">
   <a href="https://github.com/dadavidson">
   <img height="141em" src="https://github-readme-stats.vercel.app/api?username=dadavidson&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
@@ -20,7 +18,7 @@
 
 <br>
 <div align="center">
-<div>👨‍💻 I’m currently a Network Security Engineer at a large logistics company</div>
+<div>👨‍💻 I’m currently a Cybersecurity Analyst at a large logistics company</div>
 <div>🌱 I’m learning more about Cisco switching/routing, Web Security, and Python</div>
 <div> 🤔 I'm looking to help with any Open-source projects</div>
 <div> 🚀 I’m pursuing a Bachelor's degree in Cybersecurity</div>
