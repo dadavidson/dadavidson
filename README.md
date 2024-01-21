@@ -1,7 +1,7 @@
 ## Hi, I'm Daniel! 👋
 
 <p align="center">
-  <a href="https://dadavidson.github.io" target="_blank">Blog</a> •
+  <a href="http://pyr0sec.vercel.app/" target="_blank">Blog</a> •
   <a href="https://www.linkedin.com/in/danieldav/" target="_blank">LinkedIn</a> •
   <a href="https://github.com/dadavidson" target="_blank">Github</a>
 </p>
