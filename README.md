@@ -18,10 +18,9 @@
 
 <br>
 <div align="center">
-<div>👨‍💻 I’m currently a Cybersecurity Analyst at a large logistics company</div>
-<div>🌱 I’m learning more about Cisco switching/routing, Web Security, and Python</div>
-<div> 🤔 I'm looking to help with any Open-source projects</div>
-<div> 🚀 I’m pursuing a Bachelor's degree in Cybersecurity</div>
-<div> ⚡ My interests are Cybersecurity🔐, Automation⚙️, and Networking📡</div> 
-<div> 📫 The best way to reach me is to DM me on LinkedIn</div>
+<div>👨‍💻 I'm a cybersecurity analyst by day and a developer by night.</div>
+<div>👀 I’m interested in malware</div>
+<div>🌱 I’m currently learning about malware analysis and security engineering</div>
+<div>🤔 I'm looking to learn from other security researchers</div>
+<div>📫 The best way to reach me is to DM me on LinkedIn</div>
 </div>
