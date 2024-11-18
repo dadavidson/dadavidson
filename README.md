@@ -18,7 +18,7 @@
 
 <br>
 <div align="center">
-<div>👨‍💻 I'm a cybersecurity analyst by day and a developer by night.</div>
+<div>👨‍💻 I'm a security analyst by day and a developer by night.</div>
 <div>👀 I’m interested in malware</div>
 <div>🌱 I’m currently learning about malware analysis and security engineering</div>
 <div>🤔 I'm looking to learn from other security researchers</div>
